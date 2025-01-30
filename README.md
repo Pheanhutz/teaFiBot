@@ -4,7 +4,7 @@
 
 ## How ?
 
-- Register here using your wallet: [https://tea-fi.com/tea-party/](https://app.tea-fi.com/?ref=v6hrgs)
+- Register here using your wallet: [https://tea-fi.com/tea-party/](https://app.tea-fi.com/?ref=amyf4g)
 
 ## Requirements
 
