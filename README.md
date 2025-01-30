@@ -10,7 +10,7 @@
 
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
-- **POL Balance**: Ensure you have a pol balance in polygon/matic network
+- **POL Balance**: Ensure you have a pol balance in polygon/matic network (Atlest 3-5$ Worth)
 
 ## Setup
 
