@@ -18,6 +18,7 @@
    ```bash
    git clone https://github.com/Zlkcyber/teaFiBot.git
    cd teaFiBot
+   screen -r teafi
    ```
 2. Install dependencies:
    ```bash
@@ -30,6 +31,11 @@
 4. Run The Script:
    ```bash
    npm run start
+   ```
+
+4. Detach Screen:
+   ```bash
+   ctrl a + d
    ```
    ![success](image-1.png)
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
